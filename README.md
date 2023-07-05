@@ -1,5 +1,5 @@
 
-##  Google Cloud 기반 AI 인재양성 프로그램 (2023.06.26~08.25, 360Hr)
+##  Google Cloud 기반 AI 인재양성 프로그램 (2023.06.26~08.25, 352Hr)
 <br>
 
 ## git 주소 :    https://github.com/digicope/gcp_lab_06
