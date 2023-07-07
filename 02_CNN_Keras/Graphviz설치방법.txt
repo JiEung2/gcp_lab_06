@@ -5,8 +5,8 @@
 
 
 [1] 윈도우즈 환경에서 아래 사이트에서  graphviz-2.38-win32.msi 파일을 다운 로드하여 설치한다
-    https://www2.graphviz.org/Packages/stable/windows/10/msbuild/Release/Win32/
-    ==> 강사 깃허브에 분할 압축하여 올려져 있음, LMS게시판에도 있음 
+    # https://www2.graphviz.org/Packages/stable/windows/10/msbuild/Release/Win32/
+    ==> 강사 깃허브에 분할 압축하여 올려져 있음
 
 
 [2] 윈도우즈 환경 변수 추가 : 사용자 변수와 시스템 변수 두 개 모두 추가해 주어야한다
