@@ -12,6 +12,15 @@ https://www.cloudskillsboost.google/focuses/2794?locale=ko&parent=catalog
 
 https://www.cloudskillsboost.google/focuses/3563?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=24944033
 
+gcloud config set compute/region "region=us-central1"
+gcloud config get compute/region
+
+export REGION=region=us-central1
+echo $REGION
+
+export ZONE=us-central1-a
+echo $ZONE
+
 
 [3] Getting Started with Cloud Shell and gcloud  : (Cloud Shell 과 gcloud 사용법)
 
