@@ -50,7 +50,7 @@ LF/CRLF  --> https://velog.io/@dev_yong/CRLF%EC%99%80-LF%EC%B0%A8%EC%9D%B4%EC%9D
 project = augmented-path-392404
 watch -n 2 curl http://34.123.142.162:8080
 
- Windows에 Cloud SDK를 설치하고 gcloud로 vm 인스턴스 생성해보후 다음 실습으로 진행 
+ Windows에 Cloud SDK를 설치하고 gcloud로 vm 인스턴스 생성해본 후 다음 실습으로 진행 
 
 
 [7]  Cloud IAM: Qwik Start  : (IAM 기초)
