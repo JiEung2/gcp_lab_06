@@ -115,7 +115,7 @@ export REGION=$(gcloud config get compute/region)
 https://www.cloudskillsboost.google/focuses/1229?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=24974993
 
 
-[12] Multiple VPC NetworksMultiple VPC Networks : (다중 VPC 네트워크,실습 생략)
+[12] [실습생략] Multiple VPC NetworksMultiple VPC Networks : (다중 VPC 네트워크)
 
 https://www.cloudskillsboost.google/focuses/1230?catalog_rank=%7B%22rank%22%3A2%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&locale=ko&parent=catalog&search_id=24977321
 
@@ -127,6 +127,13 @@ gcloud compute instances create privatenet-us-vm --zone="us-east1-b" --machine-t
 [13] VPC Network Peering : (VPC Peering)
 
 https://www.cloudskillsboost.google/focuses/964?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=24999254
+
+[수정요 , Task 2에서]
+gcloud compute routes list --project  을
+gcloud compute routes list  으로 변경 실행한다
+
+[결과확인]
+ Project-B의 vm-b SSH 접속창에서 Project-A의 vm-a의 내부 주소를 ping으로 접근테스트 
 
 [14] VPC Networks - Controlling Access : (방화벽 규칙)
 
