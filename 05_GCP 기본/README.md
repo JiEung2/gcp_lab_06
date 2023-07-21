@@ -7,10 +7,12 @@ https://console.cloud.google.com/?hl=ko
 #### [Google Qwiklabs (Cloud Skills Boost)]
 https://www.cloudskillsboost.google/  <br>
 
-#### [리눅스 명령어 익히기] <br>
+#### [리눅스 명령어 익히기]   <br>
 https://itholic.github.io/linux-basic-command/
 
-<br>
+#### [SQL 명령어 기초]  <br>
+https://pgnt.tistory.com/177   <br>
+
 
 ### GCP 참고 서적
 
