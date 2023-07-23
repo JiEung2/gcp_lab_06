@@ -17,6 +17,6 @@ https://www.cloudskillsboost.google/course_templates/53
 - 03.Building Resilient Streaming Analytics Systems on GCP <br>
 https://www.cloudskillsboost.google/course_templates/52
 
-#### - 04.Smart Analytics, Machine Learning, and AI on Google Cloud <br>
+- 04.Smart Analytics, Machine Learning, and AI on Google Cloud <br>
 https://www.cloudskillsboost.google/course_templates/55
  
