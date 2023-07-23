@@ -1,6 +1,6 @@
 ## 06_GCP 활용
 
-### [ Google Cloud Big Data and Machine Learning Fundamentals ] <br>
+## [ Google Cloud Big Data and Machine Learning Fundamentals ] <br>
 https://www.cloudskillsboost.google/course_templates/3
 <br> <br>
 
