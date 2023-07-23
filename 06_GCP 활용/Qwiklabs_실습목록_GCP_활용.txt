@@ -1,5 +1,5 @@
 ** Google Qwiklabs (Cloud Skills Boost) 실습 목록 : GCP 활용
-
+================================================================================================
 [Course 01] : Google Cloud Big Data and Machine Learning Fundamentals
 
 https://www.cloudskillsboost.google/course_templates/3
@@ -9,12 +9,12 @@ https://www.cloudskillsboost.google/course_templates/3
 [1] Big Data and Machine Learning on Google Cloud : (Course 01)
    [LAB] : Exploring a BigQuery Public Dataset : (BigQuery 기초)
 
+================================================================================================
 
 >>> [Main Course] : Data Engineering on Google Cloud <<<
       https://www.cloudskillsboost.google/journeys/16
 
 [Course 02] : Modernizing Data Lakes and Data Warehouses with Google Cloud
-
 https://www.cloudskillsboost.google/course_templates/54
 에 접속해서 과정 목록이 보이기 전의 상단에나타나기 보이기 전에 "Enroll in this on-demand course"을 눌러 
 코스를 수강 등록한 다음 아래 실습을 수행한다
@@ -36,6 +36,7 @@ https://www.cloudskillsboost.google/course_templates/54
    [LAB] : Working with JSON and Array data in BigQuery 2.5 : (BigQuery 활용)
 
 
+================================================================================================
 
 [Course 03] : Building Batch Data Pipelines on Google Cloud
 https://www.cloudskillsboost.google/course_templates/53
@@ -64,6 +65,7 @@ https://www.cloudskillsboost.google/course_templates/53
 [11] Manage Data Pipelines with Cloud Data Fusion and Cloud Composer : (Course 03)
    [Lab] : An Introduction to Cloud Composer :  (Cloud Composer 기본)
 
+================================================================================================
 
 [Course 04] : Building Resilient Streaming Analytics Systems on GCP
 https://www.cloudskillsboost.google/course_templates/52
@@ -88,7 +90,7 @@ https://www.cloudskillsboost.google/course_templates/52
 [17] Advanced BigQuery Functionality and Performance
    [Lab]: Partitioned Tables in BigQuery
 
-
+================================================================================================
 [Course 05] : Smart Analytics, Machine Learning, and AI on Google Cloud
 https://www.cloudskillsboost.google/course_templates/55
 에 접속해서 과정 목록이 보이기 전의 상단에나타나기 보이기 전에 "Enroll in this on-demand course"을 눌러 
@@ -110,7 +112,7 @@ https://www.cloudskillsboost.google/course_templates/55
 [22] Custom Model Building with SQL in BigQuery ML
    [Lab] : Movie Recommendations in BigQuery ML
 
-
+================================================================================================
 
 
 
