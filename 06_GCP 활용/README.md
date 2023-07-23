@@ -2,8 +2,8 @@
 
 ### Google Cloud Big Data and Machine Learning Fundamentals <br>
 https://www.cloudskillsboost.google/course_templates/3
+<br> 
 
-<br> <br>
 ###  Data Engineering on Google Cloud <br>
 https://www.cloudskillsboost.google/journeys/16
 
