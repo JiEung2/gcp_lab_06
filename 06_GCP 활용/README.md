@@ -1,5 +1,21 @@
 ### 06_GCP 활용
 
+### Google Cloud Big Data and Machine Learning Fundamentals <br>
+https://www.cloudskillsboost.google/course_templates/3
 
 ###  Data Engineering on Google Cloud <br>
-  https://www.cloudskillsboost.google/journeys/16
+https://www.cloudskillsboost.google/journeys/16
+
+### 01.Modernizing Data Lakes and Data Warehouses with Google Cloud <br>
+https://www.cloudskillsboost.google/course_templates/54
+
+### 02.Building Batch Data Pipelines on Google Cloud <br>
+https://www.cloudskillsboost.google/course_templates/53
+
+
+### 03.Building Resilient Streaming Analytics Systems on GCP <br>
+
+
+
+
+ 
