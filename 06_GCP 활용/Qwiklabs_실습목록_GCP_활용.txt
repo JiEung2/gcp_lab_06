@@ -24,16 +24,17 @@ https://www.cloudskillsboost.google/course_templates/54
    [LAB] :  Using BigQuery to do Analysis : (BigQuery 활용)
 
 
+<2nd Day>
 [3] Building a Data Lake : (Course 02)
    [LAB] : Loading Taxi Data into Google Cloud SQL 2.5   : (Cloud SQL 기초)
 
 
-[4] Building a Data Lake : (Course 02)
+[4] Building a Data Warehouse : (Course 02)
    [LAB] : Loading data into BigQuery     : (BigQuery 활용)
 
 
 [5] Building a Data Warehouse : (Course 02)
-   [LAB] : Working with JSON and Array data in BigQuery 2.5 : (BigQuery 활용)
+   [LAB] : Working with JSON and Array data in BigQuery 2.5 : (BigQuery 고급)
 
 
 ================================================================================================
