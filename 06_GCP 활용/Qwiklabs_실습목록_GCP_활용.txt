@@ -21,7 +21,7 @@ https://www.cloudskillsboost.google/course_templates/54
 
 
 [2] Introduction to Data Engineering : (Course 02)
-   [LAB] :  Exploring a BigQuery Public Dataset : (BigQuery 활용)
+   [LAB] :  Using BigQuery to do Analysis : (BigQuery 활용)
 
 
 [3] Building a Data Lake : (Course 02)
