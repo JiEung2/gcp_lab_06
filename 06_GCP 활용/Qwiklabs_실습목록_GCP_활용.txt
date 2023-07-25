@@ -44,7 +44,7 @@ https://www.cloudskillsboost.google/course_templates/53
 에 접속해서 과정 목록이 보이기 전의 상단에나타나기 보이기 전에 "Enroll in this on-demand course"을 눌러 
 코스를 수강 등록한 다음 아래 실습을 수행한다
 
-
+<3rd Day>
 [6] Executing Spark on Dataproc : (Course 03)
    [LAB] : Running Apache Spark jobs on Cloud Dataproc  : (Dataproc 기본)
 
