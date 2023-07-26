@@ -54,17 +54,19 @@ https://www.cloudskillsboost.google/course_templates/53
 [7] Serverless Data Processing with_Dataflow : (Course 03)
    [Lab] : A Simple Dataflow Pipeline (Python)    :  (Dataflow 기본)
 
+- 퀵랩환경이 아닌경우에는 "training-vm" 가상머신을  생성한 다음 SSH접속 후 아래 설치 명령을 먼저 수행한다
+[주의]:VM생성시 [ID 및 API 액세스]의 [액세스 범위]에서 [모든 Cloud API에 대한 전체 액세스 허용]을 선택해주고 생성한다
+
 [Debian git 설치]
 sudo apt update
 sudo apt install git
-
-
-[주의]:VM생성시 [ID 및 API 액세스]의 [액세스 범위]에서 [모든 Cloud API에 대한 전체 액세스 허용]을 선택해주고 생성한다
 
 [가상머신에 python3과 apache-beam설치]
 sudo apt-get -y install python3-pip
 pip install apache-beam[gcp]
 
+BUCKET="jnu-idv-xx"
+echo $BUCKET
 
 [8] Serverless Data Processing with_Dataflow : (Course 03)
    [Lab] : MapReduce in Beam (Python)]   :  (Dataflow 기본)
@@ -72,6 +74,21 @@ pip install apache-beam[gcp]
 
 [9] Serverless Data Processing with_Dataflow : (Course 03)
    [Lab] : Side Inputs (Python)]  :  (Dataflow 기본)
+
+- 퀵랩환경이 아닌경우에는 "training-vm" 가상머신을  생성한 다음 SSH접속 후 아래 설치 명령을 먼저 수행한다
+[주의]:VM생성시 [ID 및 API 액세스]의 [액세스 범위]에서 [모든 Cloud API에 대한 전체 액세스 허용]을 선택해주고 생성한다
+
+[Debian git 설치]
+sudo apt update
+sudo apt install git
+
+[가상머신에 python3과 apache-beam설치]
+sudo apt-get -y install python3-pip
+pip install apache-beam[gcp]
+
+BUCKET="jnu-idv-xx"
+echo $BUCKET
+
 
 
 [10] Manage Data Pipelines with Cloud Data Fusion and Cloud Composer : (Course 03)
