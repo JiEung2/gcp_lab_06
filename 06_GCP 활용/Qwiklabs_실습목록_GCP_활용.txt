@@ -68,6 +68,7 @@ pip install apache-beam[gcp]
 BUCKET="jnu-idv-xx"
 echo $BUCKET
 
+<5th Day>
 [8] Serverless Data Processing with_Dataflow : (Course 03)
    [Lab] : MapReduce in Beam (Python)]   :  (Dataflow 기본)
   
@@ -90,11 +91,10 @@ BUCKET="jnu-idv-xx"
 echo $BUCKET
 
 
-
-[10] Manage Data Pipelines with Cloud Data Fusion and Cloud Composer : (Course 03)
+[10] (실습 생략) Manage Data Pipelines with Cloud Data Fusion and Cloud Composer : (Course 03) 
    [Lab] : Building and Executing a Pipeline Graph in Cloud Data Fusion :  (Data Fusion 기본)
 
-[11] Manage Data Pipelines with Cloud Data Fusion and Cloud Composer : (Course 03)
+[11] (실습 생략) Manage Data Pipelines with Cloud Data Fusion and Cloud Composer : (Course 03)
    [Lab] : An Introduction to Cloud Composer :  (Cloud Composer 기본)
 
 =====================================================================================
@@ -145,7 +145,6 @@ https://www.cloudskillsboost.google/course_templates/55
    [Lab] : Movie Recommendations in BigQuery ML
 
 =====================================================================================
-
 
 
 
