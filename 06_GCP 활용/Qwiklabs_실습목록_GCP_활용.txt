@@ -105,22 +105,23 @@ https://www.cloudskillsboost.google/focuses/925?catalog_rank=%7B%22rank%22%3A2%2
 
 
 [12] Serverless Messaging with Pub Sub  : (Course 04)
-   [Lab] : Publish Streaming Data into Pub/Sub    : (Pub/Sub 활용)
+   [Lab] : Streaming Data Processing: Publish Streaming Data into PubSub    : (Pub/Sub 활용)
 
-[13] Dataflow Streaming Features
-   [Lab] : Streaming Data Pipelines
+[13] Dataflow Streaming Features : (Course 04)
+   [Lab] : Streaming Data Processing: Streaming Data Pipelines   : (Dataflow / Pub/Sub / BigQuery 연동)
 
-[14] High-Throughput BigQuery and Bigtable Streaming Features
-   [Lab] : Streaming Analytics and Dashboards
+[14] High-Throughput BigQuery and Bigtable Streaming Features : (Course 04)
+   [Lab] : Streaming Data Processing: Streaming Analytics and Dashboards : (BigQuery) 
 
-[15] High-Throughput BigQuery and Bigtable Streaming Features
-   [Lab] : Streaming Data Pipelines into Bigtable
 
-[16] Advanced BigQuery Functionality and Performance
-   [Lab]: Optimizing your BigQuery Queries for Performance
+[15] High-Throughput BigQuery and Bigtable Streaming Features : (Course 04)
+   [Lab] : Streaming Data Pipelines into Bigtable   : (Dataflow / Pub/Sub / Bigtable 연동)
 
-[17] Advanced BigQuery Functionality and Performance
-   [Lab]: Partitioned Tables in BigQuery
+[16] Advanced BigQuery Functionality and Performance : (Course 04)
+   [Lab]: Optimizing your BigQuery Queries for Performance : (BigQuery) 
+
+[17] Advanced BigQuery Functionality and Performance : (Course 04)
+   [Lab]: Partitioned Tables in BigQuery : (BigQuery) 
 
 =====================================================================================
 [Course 05] : Smart Analytics, Machine Learning, and AI on Google Cloud
