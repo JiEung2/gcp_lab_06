@@ -1,0 +1,32 @@
+** Google Qwiklabs (Cloud Skills Boost) 실습 목록 : GCP Machine Learning
+=====================================================================================
+[Course  : Smart Analytics, Machine Learning, and AI on Google Cloud]
+https://www.cloudskillsboost.google/course_templates/55
+에 접속해서 "Enroll in this on-demand course"을 눌러 코스를 수강 등록한 다음 아래 실습을 수행한다
+
+
+[01] Prebuilt ML Model APIs for Unstructured Data
+   [Lab] : Using the Natural Language API to Classify Unstructured Text
+
+[02] Big Data Analytics with Notebooks
+   [Lab] : BigQuery in JupyterLab on Vertex AI
+
+[03] Production ML Pipelines
+   [Lab] : Running Pipelines on Vertex AI
+
+[04] Custom Model Building with SQL in BigQuery ML
+   [Lab]: Predict Bike Trip Duration with a Regression Model in BigQuery ML
+
+[05] Custom Model Building with SQL in BigQuery ML
+   [Lab] : Movie Recommendations in BigQuery ML
+
+=====================================================================================
+
+
+
+
+
+
+
+
+
