@@ -104,16 +104,20 @@ https://www.cloudskillsboost.google/focuses/3719?catalog_rank=%7B%22rank%22%3A1%
 https://www.cloudskillsboost.google/focuses/925?catalog_rank=%7B%22rank%22%3A2%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=25243204
 
 
+
+<6th Day>
 [12] Serverless Messaging with Pub Sub  : (Course 04)  
    [Lab] : Streaming Data Processing: Publish Streaming Data into PubSub    : (Pub/Sub 활용)
 - 퀵랩환경이 아닌경우에는 "training-vm" 가상머신을  생성한 다음 SSH접속 후 /training/ 밑에 아래 파일을 생성해 놓는다(강사 깃허브에 올려 있음  )
 sensor_magic.sh / project_env.sh / bq_magic.sh
 
-- 명령어 (3개 파일을 생성)
+- 파일 생성 명령어 (3개 파일을 생성한다)
 sudo mkdir /training
 cd /training/
 sudo nano sensor_magic.sh
 sudo chmod 777 sensor_magic.sh
+
+sudo nano project_env.sh 와 sudo nano bq_magic.sh 도 같은 방식으로..
 
 [13] Dataflow Streaming Features : (Course 04)  
    [Lab] : Streaming Data Processing: Streaming Data Pipelines   : (Dataflow / Pub/Sub / BigQuery 연동)
