@@ -109,7 +109,7 @@ export DEVSHELL_PROJECT_ID=$(gcloud config get-value project)
 <6th Day>
 [12] Serverless Messaging with Pub Sub  : (Course 04)  
    [Lab] : Streaming Data Processing: Publish Streaming Data into PubSub    : (Pub/Sub 활용)
-(주의: 파이썬 버전 문제로 Qwiklab에서 실습 진행 할것)
+(파이썬 버전 문제로 Qwiklab에서 실습 진행 할것)
 
  [PubSub v2.0 변경사항(python 3.6이상)]
  https://cloud.google.com/python/docs/reference/pubsub/latest/upgrading
@@ -117,7 +117,7 @@ export DEVSHELL_PROJECT_ID=$(gcloud config get-value project)
 
 [13] Dataflow Streaming Features : (Course 04)  
    [Lab] : Streaming Data Processing: Streaming Data Pipelines   : (Dataflow / Pub/Sub / BigQuery 연동)
-(주의: 파이썬 버전 문제로 Qwiklab에서 실습 진행 할것)
+(파이썬 버전 문제로 Qwiklab에서 실습 진행 할것)
 
 
 [14] High-Throughput BigQuery and Bigtable Streaming Features : (Course 04) 
@@ -126,6 +126,7 @@ export DEVSHELL_PROJECT_ID=$(gcloud config get-value project)
 
 [15] High-Throughput BigQuery and Bigtable Streaming Features : (Course 04)
    [Lab] : Streaming Data Pipelines into Bigtable   : (Dataflow / Pub/Sub / Bigtable 연동)
+(파이썬 버전 문제로 Qwiklab에서 실습 진행 할것)
 
 [16] Advanced BigQuery Functionality and Performance : (Course 04)  --> 실습 생략
    [Lab]: Optimizing your BigQuery Queries for Performance : (BigQuery) 
