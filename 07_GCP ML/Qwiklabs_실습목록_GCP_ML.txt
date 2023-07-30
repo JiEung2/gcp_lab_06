@@ -15,16 +15,32 @@ https://www.cloudskillsboost.google/course_templates/55
    [Lab] : Running Pipelines on Vertex AI
 
 [04] Custom Model Building with SQL in BigQuery ML
-   [Lab]: Predict Bike Trip Duration with a Regression Model in BigQuery ML
+   [Lab] : Predict Bike Trip Duration with a Regression Model in BigQuery ML
 
 [05] Custom Model Building with SQL in BigQuery ML
    [Lab] : Movie Recommendations in BigQuery ML
 
 =====================================================================================
+[Course : Google Cloud Big Data and Machine Learning Fundamentals ]
+https://www.cloudskillsboost.google/course_templates/3
+에 접속해서 "Enroll in this on-demand course"을 눌러 코스를 수강 등록한 다음 아래 실습을 수행한다
+
+[06] Deriving Insights from Unstructured Data using Machine Learning
+   [Lab] :Classifying Images of Clouds in the Cloud with AutoML Vision  : (AutoML Vision)
+   https://www.cloudskillsboost.google/course_sessions/429791/labs/102284
+
+=====================================================================================
+[Course : Machine Learning Operations (MLOps): Getting Started ]
+https://www.cloudskillsboost.google/course_templates/158
+에 접속해서 "Enroll in this on-demand course"을 눌러 코스를 수강 등록한 다음 아래 실습을 수행한다
+
+[07] Vertex AI and MLOps on Vertex AI
+   [Lab] : Training and Deploying a TensorFlow Model in Vertex AI   : (Vertex AI,TF model 배포)
+   https://www.cloudskillsboost.google/course_sessions/777646/labs/372935
 
 
-
-
+[08] [Lab] : Machine Learning with TensorFlow in Vertex AI
+   https://www.cloudskillsboost.google/focuses/3391?catalog_rank=%7B%22rank%22%3A7%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=25312663
 
 
 
