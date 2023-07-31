@@ -6,13 +6,28 @@ https://www.cloudskillsboost.google/course_templates/55
 
 
 [01] Prebuilt ML Model APIs for Unstructured Data
-   [Lab] : Using the Natural Language API to Classify Unstructured Text
+   [Lab] : Using the Natural Language API to Classify Unstructured Text  : (Pre-trained ML API)
 
 [02] Big Data Analytics with Notebooks
-   [Lab] : BigQuery in JupyterLab on Vertex AI
+   [Lab] : BigQuery in JupyterLab on Vertex AI  : (JupyterLab BigQuery)
 
 [03] Production ML Pipelines
-   [Lab] : Running Pipelines on Vertex AI
+   [Lab] : Running Pipelines on Vertex AI    : (Vertex AI Pipelines)
+
+- Bucket에 빈 파일 2개 복사
+gcloud storage buckets create gs://jnu-idv-01
+touch emptyfile1
+touch emptyfile2
+gcloud storage cp emptyfile1 gs://jnu-idv-01/pipeline-output/emptyfile1
+gcloud storage cp emptyfile2 gs://jnu-idv-01/pipeline-input/emptyfile2
+
+- PROJECT_ID를 jnu-idv-01로 변경
+sed -i 's/PROJECT_ID/jnu-idv-01/g' basic_pipeline.json
+
+gcloud storage cp basic_pipeline.json gs://jnu-idv-01/pipeline-input/basic_pipeline.json
+
+* Kubeflow 파이프라인 예제
+https://www.kubeflow.org/docs/components/pipelines/v2/hello-world/
 
 [04] Custom Model Building with SQL in BigQuery ML
    [Lab] : Predict Bike Trip Duration with a Regression Model in BigQuery ML
