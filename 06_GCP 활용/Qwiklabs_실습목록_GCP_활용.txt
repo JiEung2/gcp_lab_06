@@ -132,6 +132,25 @@ export DEVSHELL_PROJECT_ID=$(gcloud config get-value project)
    [Lab] : Streaming Data Pipelines into Bigtable   : (Dataflow / Pub/Sub / Bigtable 연동)
 (파이썬 버전 문제로 Qwiklab에서 실습 진행 할것)
 
+* HBase Shell 명령어 설명
+1. create '테이블이름','column 이름' : 새로운 테이블을 생성
+2. scan '테이블이름' : 테이블의 데이터를 scan한다(쿼리하여 출력)
+3. list : 테이블 목록을 보여줌
+4. get '테이블이름','row이름' : table에서 1개 row만 출력
+
+* HBase Shell 명령어 실습
+create 'my-table', 'cf1'
+list
+put 'my-table','r1','cf1:c1','test-value'
+scan 'my-table'
+get 'my-table','r1'
+disable 'my-table'
+drop 'my-table'
+exit
+
+
+
+
 [16] Advanced BigQuery Functionality and Performance : (Course 04)  --> 실습 생략
    [Lab]: Optimizing your BigQuery Queries for Performance : (BigQuery) 
 
