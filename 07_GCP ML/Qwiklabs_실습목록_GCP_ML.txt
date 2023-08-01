@@ -24,6 +24,7 @@ https://www.cloudskillsboost.google/course_templates/55
 [Course : Google Cloud Big Data and Machine Learning Fundamentals ]
 https://www.cloudskillsboost.google/course_templates/3
 에 접속해서 "Enroll in this on-demand course"을 눌러 코스를 수강 등록한 다음 아래 실습을 수행한다
+(강사 배포 html 파을 사용하여 접속한다)
 
 [06] Deriving Insights from Unstructured Data using Machine Learning
    [Lab] :Classifying Images of Clouds in the Cloud with AutoML Vision  : (AutoML Vision)
