@@ -1,7 +1,7 @@
 ** Google Qwiklabs (Cloud Skills Boost) 실습 목록 : GCP Machine Learning
 =====================================================================================
 [Course  : Smart Analytics, Machine Learning, and AI on Google Cloud]
-	
+https://www.cloudskillsboost.google/course_templates/55	
 에 접속해서 "Enroll in this on-demand course"을 눌러 코스를 수강 등록한 다음 아래 실습을 수행한다
 
 
