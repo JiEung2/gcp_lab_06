@@ -40,7 +40,7 @@ https://www.cloudskillsboost.google/course_templates/158
 [07] Vertex AI and MLOps on Vertex AI
    [Lab] : Training and Deploying a TensorFlow Model in Vertex AI   : (Vertex AI,TF model 배포)
    https://www.cloudskillsboost.google/course_sessions/777646/labs/372935
-
+(주의 : 노트북 인스턴스 생성시 리전을 us-central1으로 한다, 서울 리전은 오류남)
 =====================================================================================
 
 [08] [Lab] : Machine Learning with TensorFlow in Vertex AI
@@ -50,7 +50,6 @@ https://www.cloudskillsboost.google/course_templates/158
 [09] The Machine Learning Workflow with Vertex AI
    [Lab] : Vertex AI: Predicting Loan Risk with AutoML
    https://www.cloudskillsboost.google/course_sessions/514665/labs/346567
-
 
 
 [10]  [Lab] : Identify Damaged Car Parts with Vertex AutoML Vision : (Veretx Vison)
