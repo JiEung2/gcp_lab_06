@@ -48,7 +48,8 @@ https://www.cloudskillsboost.google/course_templates/158
 [08] [Lab] : Machine Learning with TensorFlow in Vertex AI
      https://www.cloudskillsboost.google/focuses/3391?catalog_rank=%7B%22rank%22%3A7%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=25312663
 (퀵랩에서 실행: BigQuery 테이블이 미리 생성 된걸 사용, 데이터셋 복사시 테이블은 복사되지만 view는 복사 안됨 )
-
+퀵랩에서 BQ의 데이터 셋을 타계정 접근 권한(BigQuery Admin)을 부여한뒤 데이터 셋 링크를 복사하여 타 계정 브라우저에서 붙여넣어
+BQ에 함께보이게 한뒤 동일한 dataset을 만들고 퀵립 데이터셋을 선택하고 복사를 클릭하여 모든 테이블을 복사한다
 =====================================================================================
 [Course : Google Cloud Big Data and Machine Learning Fundamentals ]
 https://www.cloudskillsboost.google/course_templates/3
