@@ -31,6 +31,8 @@ https://www.cloudskillsboost.google/course_templates/3
    [Lab] :Classifying Images of Clouds in the Cloud with AutoML Vision  : (AutoML Vision)
    https://www.cloudskillsboost.google/course_sessions/429791/labs/102284
 
+   - Cloud Vision dataset 콘솔 메뉴 (구버전)
+     https://console.cloud.google.com/vision/datasets
 =====================================================================================
 <3rd Day>
 [Course : Machine Learning Operations (MLOps): Getting Started ]
